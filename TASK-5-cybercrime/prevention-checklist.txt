@@ -1,1 +1,45 @@
+#Prevention Tips for College Students in India
+
+-Use strong and unique passwords for every important account, especially email, banking, UPI, and social media accounts.
+
+-Enable two-factor authentication (2FA) on Gmail, Instagram, LinkedIn, GitHub, and payment apps whenever possible.
+
+-Never share OTPs, UPI PINs, CVV numbers, bank passwords, or account login details with anyone, even if they claim to be from the bank or customer care.
+
+-Before clicking any link, check the sender’s email address, phone number, or website URL carefully to avoid phishing scams.
+
+-Download apps only from official sources such as the Google Play Store or Apple App Store, and avoid installing APK files from unknown websites.
+
+-Keep your phone, laptop, browser, and apps updated so that security patches protect you from known vulnerabilities.
+
+-Do not connect to sensitive accounts such as net banking or UPI apps on public Wi-Fi unless you are using a trusted and secure connection.
+
+-Review privacy settings on social media and avoid posting personal details such as phone number, address, Aadhaar, ID cards, travel plans, or class schedules publicly.
+
+-For UPI safety, always verify the receiver’s name before sending money and double-check the UPI ID or QR code before making any payment.
+
+-For financial fraud prevention, remember that receiving money does not require entering your UPI PIN; if any app asks for a PIN to “receive” money, it is likely a scam.
+
+-Avoid scanning random QR codes shared on WhatsApp, Telegram, Instagram, or unknown websites, especially if someone promises cashback, refunds, prizes, or urgent payments.
+
+-Be careful with internship, scholarship, part-time job, and resale scams that ask for registration fees, security deposits, or advance payments.
+
+-Log out of accounts from shared or lab computers and never save passwords on public devices.
+
+-Back up important academic files, certificates, and personal documents regularly to Google Drive, OneDrive, or an external drive.
+
+-If you face cyberbullying, blackmail, impersonation, or account hacking, save screenshots, messages, transaction IDs, and other evidence immediately.
+
+
+Where to Report Cybercrime in India
+National Cyber Crime Portal: https://www.cybercrime.gov.in
+Cyber Crime Helpline: 1930
+
+Quick Action if Fraud Happens
+
+-Immediately block or freeze the affected bank account/card if possible.
+-Report the incident at cybercrime.gov.in as soon as possible.
+-Call 1930 immediately in case of UPI or online financial fraud.
+-Inform your bank or payment app support without delay.
+-Preserve all evidence such as screenshots, SMS alerts, emails, transaction details, and phone numbers.
 
