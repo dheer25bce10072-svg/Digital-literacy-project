@@ -1,13 +1,20 @@
 # Digital-literacy-project
 Name: Dheer Jain
+
 Registration Number: 25BCE10072
+
 Branch: Computer science engineering (core)
+
 Year: First Year B.Tech
+
 Course Code: CSE0001
+
 Course Title: Digital Literacy
 
 Project Overview
+
 This repository contains my Digital Literacy Portfolio created as part of the CSE0001 – Digital Literacy course at VIT Bhopal University. The project is based on the role of a Student Digital Ambassador, where the objective is to build awareness about digital literacy, create a professional online presence, explore online collaboration and coding platforms, practise email etiquette, and understand cybercrime awareness and prevention.
+
 
 The repository is organized into five tasks, each corresponding to one module of the course. It also includes the final project report documenting my work, observations, and reflections.
 
@@ -50,8 +57,8 @@ Folder: task-5-cybercrime/
 
 Project Report
 The complete written report for this project is available in the report/ folder.
-
 Report File: report/Project_Report.pdf
 
 Learning Outcome
+
 Through this project, I learned the basics of digital literacy, professional digital identity, online collaboration, email communication, and cyber safety. This repository represents both my coursework and the beginning of my long-term digital portfolio.
